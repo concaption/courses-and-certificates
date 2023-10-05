@@ -1,4 +1,4 @@
-# Self-Paced-Online-Degree
+### Self Paced Online Learning
  
 ### TODO
 - [ ] Make a table in readme.md containting list of all the certificates.
