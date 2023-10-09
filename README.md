@@ -9,7 +9,7 @@
 |--------|------------|
 | 1 | [01 Intro to Digital Manufacturing with Autodesk](/pdf/01%20Intro%20to%20Digital%20Manufacturing%20with%20Autodesk.pdf) |
 | 2 | [02 Introduction to the Internet of Things and Embedded Systems](/pdf/02%20Introduction%20to%20the%20Internet%20of%20Things%20and%20Embedded%20Systems.pdf) |
-| 3 | [03 What is Data Science?](/pdf/03%20What%20is%20Data%20Science?.pdf) |
+| 3 | [03 What is Data Science?](/pdf/03%20What%20is%20Data%20Science.pdf) |
 | 4 | [04 Microsoft Office Specialist: Word (Office 2016)](/pdf/04%20Microsoft%20Office%20Specialist:%20Word%20(Office%202016).pdf) |
 | 5 | [05 Tools for Data Science](/pdf/05%20Tools%20for%20Data%20Science.pdf) |
 | 6 | [06 Data Science Methodology](/pdf/06%20Data%20Science%20Methodology.pdf) |
